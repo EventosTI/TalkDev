@@ -1,5 +1,5 @@
 ---
-title: Somatório - Síndrome do impostor: Estamos juntos nisso
+title: Somatório - Síndrome do impostor | Estamos juntos nisso
 youtube_id: rV9xfsxnJc0
 date: 2015-02-28
 tags: [Combs, Construction, Foundation]
