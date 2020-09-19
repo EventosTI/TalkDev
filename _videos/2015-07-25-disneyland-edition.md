@@ -1,7 +1,9 @@
 ---
-title: Toda a Verdade - Webcams, Ver e Ser Visto - SIC Noticias
-youtube_id: llNCoHqN0_A
+title: Natalia Raythz - Docker para Machine Learning - #FiqueEmCasaConf
+youtube_id: J5E59YgbyYo
 date: 2015-07-25
-tags: [VidCon, Disney]
+tags: [Docker, FiqueEmCasaConf]
 ---
-Novo Canal,  [https://www.youtube.com/channel/UC80M...](https://www.youtube.com/channel/UC80Mw5G_AT520Juq4fdfvog)
+Hoje a sensacional Natalia Raythz irá falar sobre como utilizar Docker para ajudar no desenvolvimento de soluções para machine learning. Imperdível! 
+
+#FiqueEmCasaConf #LINUXtips #VAIIII
