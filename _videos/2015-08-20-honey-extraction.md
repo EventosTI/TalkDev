@@ -1,7 +1,9 @@
 ---
-title: Toda a Verdade - Criminosos da Web - SIC Noticias
-youtube_id: NR8ePqWJRds
+title: Patrick Debois - Trust me, we're doing DevSecOps -  #FiqueEmCasaConf
+youtube_id: W-RE3fnhFYE
 date: 2015-08-20
-tags: [Honey, Comb, Interview]
+tags: [DevSecOps, FiqueEmCasaConf]
 ---
-Novo Canal,  [https://www.youtube.com/channel/UC80M...](https://www.youtube.com/channel/UC80Mw5G_AT520Juq4fdfvog)
+Hoje o sensacional Patrick vai falar além de ferramentas e cultura, ele irá falar sobre o quanto é importante o relacionamento interpessoal. Pipelines e automação aumentam nossa confiança no processo, mas aumentam nossa confiança nas pessoas? Estamos realmente fazendo as perguntas certas quando adotamos uma nova ferramenta ou fazemos outra transformação da empresa?
+
+#FiqueEmCasaConf #LINUXtips #VAIIII
