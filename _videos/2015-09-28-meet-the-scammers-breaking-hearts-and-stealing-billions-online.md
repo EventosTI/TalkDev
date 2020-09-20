@@ -1,17 +1,13 @@
 ---
-title: Meet the scammers breaking hearts and stealing billions online | Four Corners
-youtube_id: U4kCN7TZ6us
+title: Sasha Rosenbaum - Survival of the most open - Microsoft’s Open Source Journey | #FiqueEmCasaConf
+youtube_id: ekEKccKEpc4
 date: 2015-09-28
-tags: [News, Politics]
+tags: [Microsoft, FiqueEmCasaConf]
 ---
 
-Four Corners takes you inside the world of online scamming, as reporter Sean Rubinsztein-Dunlop meets teenagers running romance scams out of internet cafes in West Africa and tracks global crime rings involved in drug trafficking and money laundering.
+10 years ago, Microsoft considered open source “a cancer”. Today, the world has changed. Open source is now an integral part of every software application, GitHub has become the largest developer community on the planet, and Microsoft is one of the largest contributors to open source.
 
-Read more here: <https://ab.co/2UUkQSq>
+It doesn’t matter if you are a hobbyist, a start-up, or a bank, if you are flying rockets to the planets or even taking pictures of a black hole, open source is now vital to how you build software. Sasha will share the highlights from Microsoft's historical pivot to open source, explain how even the unlikeliest companies can learn to successfully contribute to open source, and how you can apply the mindset of openness and collaboration “within your firewall” to empower your organization to achieve more.
 
-For more from ABC News, click here: <http://www.abc.net.au/news/>
+#FiqueEmCasaConf #LINUXtips #VAIIII
 
-- Subscribe to us on YouTube: <http://ab.co/1svxLVE>
-- You can also like us on Facebook: <http://facebook.com/abcnews.au>
-- Or follow us on Instagram: <http://instagram.com/abcnews_au>
-- Or even on Twitter: <http://twitter.com/abcnews>
