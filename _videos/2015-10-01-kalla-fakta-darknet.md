@@ -1,5 +1,5 @@
 ---
-title: Sheimy Rahman - Classify things in Go: the easy way. | #FiqueEmCasaConf
+title: Sheimy Rahman - Classify things in Go - the easy way. | #FiqueEmCasaConf
 youtube_id: 2cCiO4MlzbM
 date: 2015-10-01
 tags: [Go, FiqueEmCasaConf]
