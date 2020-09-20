@@ -1,12 +1,18 @@
 ---
-title: Most Dangerous Town on the Internet - Where Cybercrime Goes to Hide
-youtube_id: CashAq5RToM
+title: EDCON Toronto - 2018-05-04 AM+PM
+youtube_id: VsZuDJMmVPY
 date: 2015-10-07
-tags: [News, Investigations]
+tags: [EDCON, Toronto]
 ---
 
-<https://www.mostdangeroustown.com/>
+Community Ethereum Development Conference
 
-Norton explores the secret world of bulletproof hosting that’s hidden deep in underground bunkers, isolated at sea, and spread across the Web. Uncover the threats that lie within these services, such as botnets, malware, ransomware, and the black market, and learn how to protect yourself in “The Most Dangerous Town on the Internet – Where Cybercrime Goes to Hide” 
+Telegram: https://t.me/EDCON_Toronto 
+Slack: edcon-toronto2018.slack.com
+Twitter: https://twitter.com/LinkTimeTech
+Reddit: https://www.reddit.com/user/LinkTimeTech/
 
-#MostDangerousTown
+Time: May 3 - 5, 2018
+Location: Ted Rogers School of Management, Ryerson University 
+55 Dundas St W, Toronto, ON, Canada, M5G 2C3
+Website: https://edcon.io/
