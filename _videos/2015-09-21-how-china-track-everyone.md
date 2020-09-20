@@ -1,24 +1,10 @@
 ---
-title: How China Tracks Everyone | VICE on HBO
-youtube_id: CLo3e1Pak-Y
+title: Camilla Martins - Ideias de rollback automatizado no mundo do blameless 
+youtube_id: EN-OYC3pjKc
 date: 2015-09-21
-tags: [News, Politics]
+tags: [Blameless, FiqueEmCasaConf]
 ---
 
-VICE's Elle Reeve heads to China to investigate the rise of facial recognition technology — and what that means for all of us. 
+Hoje a sensacional Camilla Martins irá falar sobre algumas sensacionais ideias de como fazer rollback automatizado em um mundo de blameless! Espetacular! 
 
-This report originally aired April 13, 2018, on VICE on HBO.
-
-Subscribe to VICE News here: <http://bit.ly/Subscribe-to-VICE-News>
-
-Check out VICE News for more: <http://vicenews.com>
-
-Follow VICE News here:
-
-- Facebook: <https://www.facebook.com/vicenews>
-- Twitter: <https://twitter.com/vicenews>
-- Tumblr: <http://vicenews.tumblr.com/>
-- Instagram: <http://instagram.com/vicenews>
-- More videos from the VICE network: <https://www.fb.com/vicevideo>
-
-#VICEonHBO
+#FiqueEmCasaConf #LINUXtips #VAIIII
