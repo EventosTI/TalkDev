@@ -1,11 +1,10 @@
 ---
-title: Reportage choc Francais - Darknet, Silkroad,Tor, le coté obscur d'internet
-youtube_id: lBn7RO1_Ecw
+title: Dan "phrawzty" Maher - Better reliability through SLOs | #FiqueEmCasaConf
+youtube_id: JOFYhFbrsK8
 date: 2015-10-02
-tags: [News, Investigations]
+tags: [SLOs, FiqueEmCasaConf]
 ---
 
-Le Darknet, c'est la face cachée d'internet. On y trouve de tout : drogues, armes, numéros de cartes de crédit. En toute liberté et dans l'anonymat total.
+Hoje é dia do sensacional Dan Maher falar sobre a importância do SLO e o pq temos que entender que somente o uptime não é uma boa medida para a confiabilidade de seus serviços.
 
-Un réseau secret derrière lequel s'abritent aussi des cybermilitants traqués par les dictatures. Alors comment fonctionne-t-il ? Et pourquoi les autorités sont-elles impuissantes ?
-
+#FiqueEmCasaConf
