@@ -1,5 +1,5 @@
 ---
-title: Carlos Panato - Kubernetes Operators: Uma Breve introdução | #FiqueEmCasaConf
+title: Carlos Panato - Kubernetes Operators - Uma Breve introdução | #FiqueEmCasaConf
 youtube_id: g3gJTP_vrgk
 date: 2015-09-25
 tags: [Kubernetes, FiqueEmCasaConf]
