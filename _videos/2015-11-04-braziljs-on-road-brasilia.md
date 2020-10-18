@@ -1,7 +1,7 @@
 ---
 title: BrazilJS on the road Brasília 2020
 youtube_id: 6QfVYntUtao
-date: 2015-11-03
+date: 2015-11-04
 tags: [BrazilJS, 2020]
 ---
 
